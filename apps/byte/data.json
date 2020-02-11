@@ -1,0 +1,12 @@
+{
+  "latestVersion": "0.8",
+  "latestVersionCode": 8,
+  "url": "https://github.com/jakcal/APPS/raw/master/bytestreamV08.apk",
+   "releaseNotes": [   
+	"- Improved Player decoding ",
+    "-New Local ads algorithm",  
+	"- Added subtitle support",
+    "-Supported more websites"
+
+  ]
+}
