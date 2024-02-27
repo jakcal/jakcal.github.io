@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakcal.github.io/sitemap-index.xml
