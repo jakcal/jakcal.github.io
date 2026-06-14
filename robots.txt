@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://yassinech.com
+Sitemap: https://yassinech.com/sitemap.xml
