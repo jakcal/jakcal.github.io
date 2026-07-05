@@ -1,0 +1,52 @@
+# Yassine Chandid — Full Stack Developer
+
+> Yassine Chandid is a full-stack developer based in Casablanca, Morocco (UTC+1). He builds fast, modern web, mobile, and desktop apps with React, Next.js, and TypeScript — then ships them and keeps them running. This site (yassinech.com) is his portfolio: selected work, a full project index, and small free developer tools.
+
+## About
+
+- Name: Yassine Chandid
+- Role: Full Stack Developer / Software Engineer
+- Location: Casablanca, Morocco (UTC+1)
+- Focus: React, Next.js, TypeScript, full-stack web, mobile (React Native), desktop
+- Contact: me@yassinech.com
+- GitHub: https://github.com/jakcal
+- Twitter/X: https://twitter.com/chandid_yassine
+
+## Site pages
+
+- [Home](https://yassinech.com/): Intro, what clients say, stack, and highlights.
+- [Projects](https://yassinech.com/projects): Full index of shipped work — mobile apps, web platforms, desktop software, and the servers behind them.
+- [Tools](https://yassinech.com/tools): Small free open-source tools that run in the browser.
+
+## Featured projects
+
+- AnimeHub — Anime streaming app. 5M+ downloads.
+- StockCRM — Inventory + CRM platform. In production. [Case study](https://yassinech.com/projects/stock-crm)
+- MockupViews — Canvas mockup & video studio. 2k+ daily users. [Case study](https://yassinech.com/projects/mockupviews)
+
+## More projects
+
+- iNoqta Desktop — POS desktop system
+- MYF Fragrances — Perfume sampling shop
+- Phantom.ma — Luxury goods marketplace
+- Krylia.ma — Property rental marketplace
+- LbshaVintage — Vintage clothing marketplace
+- SimpleQuran — Offline-first Quran player
+- Mo4Movies — Arabic movie streaming
+- Mo4Anime — Arabic anime streaming
+- YamTV — Streaming aggregator platform
+- Kubik Studio — Architecture studio site
+- iNoqta — POS mobile app
+- Task Management — Team task manager
+- Konix Stock — Inventory scanner app
+- E-Commerce App — Shopify storefront app
+
+## Tools
+
+- [Markdown to PDF](https://yassinech.com/MarkdownToPdf): Paste Markdown, get a clean PDF. Runs fully in the browser — nothing uploaded. Source: https://github.com/jakcal/MarkdownToPdf
+- [Stateless Password Generator](https://yassinech.com/stateless-password-generator): Same settings always produce the same strong password, so nothing is stored. Source: https://github.com/jakcal/stateless-password-generator
+
+## For AI agents
+
+- This is a static site; a machine-readable sitemap is at https://yassinech.com/sitemap.xml
+- To hire or contact Yassine, email me@yassinech.com.
