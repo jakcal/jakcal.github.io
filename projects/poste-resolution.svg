@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Poste Resolution architecture: free-text job titles matched by weighted vote, ranked, then accepted by a human, whose acceptance feeds back as a vote">
+  <defs>
+    <style>
+      .f { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
+      .lab { font-size: 15px; fill: #efece4; letter-spacing: 0.02em; }
+      .sub { font-size: 12.5px; fill: #98a2b4; letter-spacing: 0.02em; }
+      .cap { font-size: 12px; fill: #626b80; letter-spacing: 0.14em; }
+      .acc { font-size: 12.5px; fill: #ffc13b; letter-spacing: 0.04em; }
+      .box { fill: none; stroke: rgba(220,224,238,0.22); }
+      .wire { stroke: rgba(220,224,238,0.3); fill: none; }
+      .loop { stroke: #ffc13b; stroke-opacity: 0.55; fill: none; stroke-dasharray: 5 5; }
+    </style>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="rgba(220,224,238,0.45)"/>
+    </marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#ffc13b" fill-opacity="0.7"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="560" fill="#070c14"/>
+  <text class="f cap" x="40" y="52">POSTE RESOLUTION ALGORITHM</text>
+  <line class="wire" x1="40" y1="72" x2="1160" y2="72"/>
+
+  <!-- stage 1 -->
+  <rect class="box" x="40" y="140" width="250" height="104" rx="3"/>
+  <text class="f lab" x="64" y="180">free-text job title</text>
+  <text class="f sub" x="64" y="206">french · arabic · typos</text>
+  <text class="f sub" x="64" y="226">abbreviations · blanks</text>
+  <path class="wire" d="M290 192 H336" marker-end="url(#a)"/>
+
+  <!-- stage 2 -->
+  <rect class="box" x="346" y="140" width="250" height="104" rx="3"/>
+  <text class="f lab" x="370" y="180">match on fields</text>
+  <text class="f sub" x="370" y="206">records whose fields</text>
+  <text class="f sub" x="370" y="226">line up with this one</text>
+  <path class="wire" d="M596 192 H642" marker-end="url(#a)"/>
+
+  <!-- stage 3 -->
+  <rect class="box" x="652" y="140" width="250" height="104" rx="3"/>
+  <text class="f lab" x="676" y="180">weighted vote</text>
+  <text class="f sub" x="676" y="206">every confirmed title</text>
+  <text class="f sub" x="676" y="226">already in the data votes</text>
+  <path class="wire" d="M902 192 H948" marker-end="url(#a)"/>
+
+  <!-- stage 4 -->
+  <rect class="box" x="958" y="140" width="202" height="104" rx="3"/>
+  <text class="f lab" x="982" y="180">ranked</text>
+  <text class="f sub" x="982" y="206">strong first,</text>
+  <text class="f sub" x="982" y="226">weak ranked weak</text>
+
+  <!-- human in the loop -->
+  <path class="wire" d="M1059 244 V318" marker-end="url(#a)"/>
+  <rect class="box" x="958" y="328" width="202" height="76" rx="3"/>
+  <text class="f lab" x="982" y="358">human accepts</text>
+  <text class="f sub" x="982" y="382">nothing auto-written</text>
+
+  <!-- acceptance becomes a vote -->
+  <path class="loop" d="M958 366 H777 V254" marker-end="url(#b)"/>
+  <text class="f acc" x="700" y="300">acceptance becomes a vote</text>
+
+  <line class="wire" x1="40" y1="472" x2="1160" y2="472"/>
+  <text class="f sub" x="40" y="506">91.6% precision — measured by hiding 7,021 real titles and letting it run blind</text>
+</svg>
