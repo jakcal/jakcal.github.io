@@ -21,7 +21,7 @@
 ## Featured projects
 
 - AnimeHub — Anime streaming app. 5M+ downloads.
-- StockCRM — Inventory + CRM platform. In production. [Case study](https://yassinech.com/projects/stock-crm)
+- Modus — Business management system: stock, orders, customers, multi-organization workspaces, and a hospitality module (hostels and short-stay rentals) with a direct-booking storefront. In production. [Case study](https://yassinech.com/projects/modus)
 - MockupViews — Canvas mockup & video studio. 2k+ daily users. [Case study](https://yassinech.com/projects/mockupviews)
 
 ## More projects
