@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-label="Poste Resolution architecture: free-text job titles matched by weighted vote, ranked, then accepted by a human, whose acceptance feeds back as a vote">
   <defs>
     <style>
-      .f { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
-      .lab { font-size: 15px; fill: #efece4; letter-spacing: 0.02em; }
-      .sub { font-size: 12.5px; fill: #98a2b4; letter-spacing: 0.02em; }
-      .cap { font-size: 12px; fill: #626b80; letter-spacing: 0.14em; }
-      .acc { font-size: 12.5px; fill: #ffc13b; letter-spacing: 0.04em; }
-      .box { fill: none; stroke: rgba(220,224,238,0.22); }
-      .wire { stroke: rgba(220,224,238,0.3); fill: none; }
-      .loop { stroke: #ffc13b; stroke-opacity: 0.55; fill: none; stroke-dasharray: 5 5; }
+      .f { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace; }
+      .lab { font-size: 15px; fill: #101014; letter-spacing: 0.02em; }
+      .sub { font-size: 12.5px; fill: #5b5a57; letter-spacing: 0.02em; }
+      .cap { font-size: 12px; fill: #8b8985; letter-spacing: 0.14em; }
+      .acc { font-size: 12.5px; fill: #b30b0b; letter-spacing: 0.04em; }
+      .box { fill: none; stroke: rgba(16,16,20,0.18); }
+      .wire { stroke: rgba(16,16,20,0.3); fill: none; }
+      .loop { stroke: #ff3131; stroke-opacity: 0.55; fill: none; stroke-dasharray: 5 5; }
     </style>
     <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
-      <path d="M0 0 L10 5 L0 10 z" fill="rgba(220,224,238,0.45)"/>
+      <path d="M0 0 L10 5 L0 10 z" fill="rgba(16,16,20,0.45)"/>
     </marker>
     <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
-      <path d="M0 0 L10 5 L0 10 z" fill="#ffc13b" fill-opacity="0.7"/>
+      <path d="M0 0 L10 5 L0 10 z" fill="#ff3131" fill-opacity="0.7"/>
     </marker>
   </defs>
 
-  <rect width="1200" height="560" fill="#070c14"/>
+  <rect width="1200" height="560" fill="#f7f6f3"/>
   <text class="f cap" x="40" y="52">POSTE RESOLUTION ALGORITHM</text>
   <line class="wire" x1="40" y1="72" x2="1160" y2="72"/>
 
