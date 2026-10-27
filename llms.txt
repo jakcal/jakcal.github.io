@@ -1,12 +1,12 @@
-# Yassine Chandid — Full Stack Developer
+# Yassine Chandid — Technical Lead & Architect
 
-> Yassine Chandid is a full-stack developer based in Casablanca, Morocco (UTC+1). He builds fast, modern web, mobile, and desktop apps with React, Next.js, and TypeScript — then ships them and keeps them running. This site (yassinech.com) is his portfolio: selected work, a full project index, and small free developer tools.
+> Yassine Chandid is a technical lead and architect based in Casablanca, Morocco (GMT+0). He builds fast, modern web, mobile, and desktop apps with React, Next.js, and TypeScript — then ships them and keeps them running. This site (yassinech.com) is his portfolio: selected work, a full project index, and small free developer tools.
 
 ## About
 
 - Name: Yassine Chandid
-- Role: Full Stack Developer / Software Engineer
-- Location: Casablanca, Morocco (UTC+1)
+- Role: Technical Lead & Architect
+- Location: Casablanca, Morocco (GMT+0)
 - Focus: React, Next.js, TypeScript, full-stack web, mobile (React Native), desktop
 - Contact: me@yassinech.com
 - GitHub: https://github.com/jakcal
@@ -18,8 +18,21 @@
 - [Projects](https://yassinech.com/projects): Full index of shipped work — mobile apps, web platforms, desktop software, and the servers behind them.
 - [Tools](https://yassinech.com/tools): Small free open-source tools that run in the browser.
 
+## Clients
+
+- Ministère de l'Intérieur (Morocco) — GPEEC, the national workforce-planning platform. [Case study](https://yassinech.com/projects/gpeec)
+- SRM (Société Régionale Multiservices) — MyDEV, an HR self-service platform in production across several regions. Led the dev team and ran the security audits.
+- AOS — the employee association of SRM. MyAOS member portal and back-office.
+- UDAT — delivery partner for GPEEC and AOS.
+- Eventflo — events platform. https://eventflo.io/
+- Putora — job marketplace, built and delivered for the client. [Case study](https://yassinech.com/projects/putora)
+- Real Dating Now (Shinjiro Group) — dating app. https://realdatingnow.com/
+
 ## Featured projects
 
+- GPEEC — National workforce-planning platform. Air-gapped, on-prem AI classification, passed government security audits.
+- AOS (SRM) — Member portal and back-office with a configurable workflow engine.
+- Putora — Job marketplace built and delivered for a client. Four production surfaces. [Case study](https://yassinech.com/projects/putora)
 - AnimeHub — Anime streaming app. 5M+ downloads.
 - Modus — Business management system: stock, orders, customers, multi-organization workspaces, and a hospitality module (hostels and short-stay rentals) with a direct-booking storefront. In production. [Case study](https://yassinech.com/projects/modus)
 - MockupViews — Canvas mockup & video studio. 2k+ daily users. [Case study](https://yassinech.com/projects/mockupviews)
